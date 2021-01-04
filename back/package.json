@@ -1,0 +1,22 @@
+{
+  "name": "quizz-mongodb",
+  "version": "1.0.0",
+  "description": "multichoices quizz with nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pow",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "http-errors": "^1.8.0",
+    "mongoose": "^5.9.27",
+    "morgan": "^1.10.0",
+    "node-sass-middleware": "^0.11.0",
+    "twig": "^1.15.1"
+  }
+}

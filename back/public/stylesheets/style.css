@@ -1,0 +1,21 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.box {
+    width: 600px;
+    height: 200px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: lightseagreen;
+}
+
+
+/*# sourceMappingURL=style.css.map */
